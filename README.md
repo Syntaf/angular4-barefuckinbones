@@ -1,4 +1,4 @@
-# angular2-barefuckinbones
+# angular4-barefuckinbones
 No meat left, nothing but bone. 
 
 This repository serves as a bare minimum starter pack for getting Angular2 up and running with webpack. Here's whats included:
