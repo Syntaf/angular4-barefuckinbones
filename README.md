@@ -9,9 +9,9 @@ This repository serves as a bare minimum starter pack for getting Angular2 up an
 ## Getting started
 First ensure you have a relatively recent version of NPM and NodeJs installed, then
 ```
-git clone https://github.com/Syntaf/angular2-barefuckinbones
+git clone https://github.com/Syntaf/angular4-barefuckinbones
 
-cd angular2-barefuckinbones
+cd angular4-barefuckinbones
 
 npm install
 ```
