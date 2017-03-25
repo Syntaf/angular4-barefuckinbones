@@ -26,3 +26,5 @@ npm start:hmr // hot module replacement
 ```
 npm run build
 ```
+## Known issues
+- [ ] on-going warnings spit out by webpack: https://github.com/AngularClass/angular2-webpack-starter/issues/993
