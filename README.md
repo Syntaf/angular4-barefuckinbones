@@ -1,4 +1,7 @@
 # angular4-barefuckinbones
+
+*Note* Last updated and verified to be functional: September 26th, 2017
+
 No meat left, nothing but bone. 
 
 This repository serves as a bare minimum starter pack for getting Angular4 up and running with webpack. Here's whats included:
