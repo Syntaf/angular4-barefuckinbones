@@ -1,6 +1,6 @@
 # angular4-barefuckinbones
 
-*Note* Last updated and verified to be functional: September 26th, 2017
+**Note:** Last updated and verified to be functional at September 26th, 2017
 
 No meat left, nothing but bone. 
 
