@@ -1,8 +1,8 @@
 # angular4-barefuckinbones
 
-**Note:** Last updated and verified to be functional at September 26th, 2017
+**Note:** Last updated and verified to be functional at November 2nd, 2017
 
-No meat left, nothing but bone. 
+No meat left, nothing but bone. The perfect repository to get your angular4 project going! 
 
 This repository serves as a bare minimum starter pack for getting Angular4 up and running with webpack. Here's whats included:
 * Angular 4 with hot module replacement
@@ -31,3 +31,4 @@ npm run build
 ```
 ## Known issues
 - [ ] on-going warnings spit out by webpack: https://github.com/AngularClass/angular2-webpack-starter/issues/993
+- [ ] Strange warning about promises, doesn't seem to affect code
